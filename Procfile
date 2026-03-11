@@ -1,0 +1,1 @@
+web: sh steup.sh && streamlit run product.py
